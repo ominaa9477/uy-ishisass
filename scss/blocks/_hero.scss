@@ -1,0 +1,47 @@
+.hero_h1{
+    text-align: center;
+    color: var(--Primary-White, #FFF);
+text-align: center;
+font-family: Bebas Neue;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 80px; /* 100% */
+letter-spacing: 3px;
+text-transform: uppercase;
+}
+.hero_h3{
+    color: var(--Primary-White, #FFF);
+text-align: center;
+font-family: Bebas Neue;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2px;
+}
+.hero_button{
+border-radius: 4px;
+background-color: #FFB548;
+border: solid 1px #FFB548;
+width: 260px;
+height: 60px;
+color: #1A1917;
+margin-left: 450px;
+}
+.hero_knopka{
+color:  #FFF;
+text-align: justify;
+font-family: Open Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; 
+text-transform: uppercase;
+margin-top: 250px;
+text-align: center;
+}
+.hero_knopka_iconka{
+    margin-left: 570px;
+    margin-bottom: 10px;
+}

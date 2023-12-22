@@ -1,0 +1,39 @@
+.header_ul{
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 48px;
+margin-left: 60px;
+
+}
+.header_li{
+    text-align: right;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+.header{
+    background-image: url(../../images/image.png);
+    // height: 650px;
+}
+.header_logo{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.header_dropdown{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -15px;
+    color: white;
+    margin-left: 60px;
+    
+}
+.header_icon{
+    margin-left: 10px;
+
+}
